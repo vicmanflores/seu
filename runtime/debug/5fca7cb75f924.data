@@ -1,0 +1,1101 @@
+a:12:{s:6:"config";s:10806:"a:5:{s:10:"phpVersion";s:6:"7.1.19";s:10:"yiiVersion";s:10:"2.0.13-dev";s:11:"application";a:8:{s:3:"yii";s:10:"2.0.13-dev";s:4:"name";s:3:"SEU";s:7:"version";s:3:"1.0";s:8:"language";s:2:"es";s:14:"sourceLanguage";s:5:"en-US";s:7:"charset";s:5:"UTF-8";s:3:"env";s:4:"prod";s:5:"debug";b:0;}s:3:"php";a:5:{s:7:"version";s:6:"7.1.19";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;s:9:"memcached";b:0;}s:10:"extensions";a:44:{s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:70:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/yiisoft/yii2-swiftmailer";}}s:22:"kartik-v/yii2-sortable";a:3:{s:4:"name";s:22:"kartik-v/yii2-sortable";s:7:"version";s:7:"1.2.0.0";s:5:"alias";a:1:{s:16:"@kartik/sortable";s:68:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-sortable";}}s:24:"rmrevin/yii2-fontawesome";a:3:{s:4:"name";s:24:"rmrevin/yii2-fontawesome";s:7:"version";s:8:"2.17.1.0";s:5:"alias";a:1:{s:24:"@rmrevin/yii/fontawesome";s:70:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/rmrevin/yii2-fontawesome";}}s:18:"cebe/yii2-gravatar";a:3:{s:4:"name";s:18:"cebe/yii2-gravatar";s:7:"version";s:7:"1.1.0.0";s:5:"alias";a:1:{s:14:"@cebe/gravatar";s:78:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/cebe/yii2-gravatar/cebe/gravatar";}}s:25:"kartik-v/yii2-datecontrol";a:3:{s:4:"name";s:25:"kartik-v/yii2-datecontrol";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:19:"@kartik/datecontrol";s:71:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-datecontrol";}}s:24:"rmrevin/yii2-minify-view";a:3:{s:4:"name";s:24:"rmrevin/yii2-minify-view";s:7:"version";s:8:"1.15.1.0";s:5:"alias";a:1:{s:19:"@rmrevin/yii/minify";s:70:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/rmrevin/yii2-minify-view";}}s:22:"kartik-v/yii2-editable";a:3:{s:4:"name";s:22:"kartik-v/yii2-editable";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:16:"@kartik/editable";s:68:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-editable";}}s:28:"kartik-v/yii2-widget-depdrop";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-depdrop";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:15:"@kartik/depdrop";s:74:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-widget-depdrop";}}s:17:"shifrin/yii2-noty";a:3:{s:4:"name";s:17:"shifrin/yii2-noty";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:13:"@shifrin/noty";s:63:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/shifrin/yii2-noty";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:68:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/yiisoft/yii2-bootstrap";}}s:18:"kartik-v/yii2-mpdf";a:3:{s:4:"name";s:18:"kartik-v/yii2-mpdf";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/mpdf";s:64:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-mpdf";}}s:25:"kartik-v/yii2-krajee-base";a:3:{s:4:"name";s:25:"kartik-v/yii2-krajee-base";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/base";s:71:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-krajee-base";}}s:20:"kartik-v/yii2-dialog";a:3:{s:4:"name";s:20:"kartik-v/yii2-dialog";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:14:"@kartik/dialog";s:66:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-dialog";}}s:28:"kartik-v/yii2-widget-select2";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-select2";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:15:"@kartik/select2";s:74:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-widget-select2";}}s:31:"kartik-v/yii2-widget-activeform";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-activeform";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/form";s:77:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-widget-activeform";}}s:22:"kartik-v/yii2-dynagrid";a:3:{s:4:"name";s:22:"kartik-v/yii2-dynagrid";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:16:"@kartik/dynagrid";s:68:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-dynagrid";}}s:20:"kartik-v/yii2-export";a:3:{s:4:"name";s:20:"kartik-v/yii2-export";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:14:"@kartik/export";s:66:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-export";}}s:18:"mdmsoft/yii2-admin";a:3:{s:4:"name";s:18:"mdmsoft/yii2-admin";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:10:"@mdm/admin";s:64:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/mdmsoft/yii2-admin";}}s:30:"kartik-v/yii2-widget-typeahead";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-typeahead";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:17:"@kartik/typeahead";s:76:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-widget-typeahead";}}s:30:"kartik-v/yii2-widget-touchspin";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-touchspin";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:17:"@kartik/touchspin";s:76:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-widget-touchspin";}}s:31:"kartik-v/yii2-widget-timepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-timepicker";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/time";s:77:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-widget-timepicker";}}s:32:"kartik-v/yii2-widget-switchinput";a:3:{s:4:"name";s:32:"kartik-v/yii2-widget-switchinput";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:19:"@kartik/switchinput";s:78:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-widget-switchinput";}}s:28:"kartik-v/yii2-widget-spinner";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-spinner";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:15:"@kartik/spinner";s:74:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-widget-spinner";}}s:28:"kartik-v/yii2-widget-sidenav";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-sidenav";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:15:"@kartik/sidenav";s:74:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-widget-sidenav";}}s:27:"kartik-v/yii2-widget-rating";a:3:{s:4:"name";s:27:"kartik-v/yii2-widget-rating";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:14:"@kartik/rating";s:73:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-widget-rating";}}s:31:"kartik-v/yii2-widget-rangeinput";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-rangeinput";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:13:"@kartik/range";s:77:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-widget-rangeinput";}}s:26:"kartik-v/yii2-widget-growl";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-growl";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:13:"@kartik/growl";s:72:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-widget-growl";}}s:30:"kartik-v/yii2-widget-fileinput";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-fileinput";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/file";s:76:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-widget-fileinput";}}s:35:"kartik-v/yii2-widget-datetimepicker";a:3:{s:4:"name";s:35:"kartik-v/yii2-widget-datetimepicker";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:16:"@kartik/datetime";s:81:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-widget-datetimepicker";}}s:31:"kartik-v/yii2-widget-datepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-datepicker";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/date";s:77:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-widget-datepicker";}}s:31:"kartik-v/yii2-widget-colorinput";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-colorinput";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:13:"@kartik/color";s:77:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-widget-colorinput";}}s:26:"kartik-v/yii2-widget-alert";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-alert";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:13:"@kartik/alert";s:72:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-widget-alert";}}s:26:"kartik-v/yii2-widget-affix";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-affix";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:13:"@kartik/affix";s:72:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-widget-affix";}}s:21:"kartik-v/yii2-widgets";a:3:{s:4:"name";s:21:"kartik-v/yii2-widgets";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:15:"@kartik/widgets";s:67:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-widgets";}}s:40:"jlorente/yii2-widget-remainingcharacters";a:3:{s:4:"name";s:40:"jlorente/yii2-widget-remainingcharacters";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:29:"@jlorente/remainingcharacters";s:86:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/jlorente/yii2-widget-remainingcharacters";}}s:27:"2amigos/yii2-gallery-widget";a:3:{s:4:"name";s:27:"2amigos/yii2-gallery-widget";s:7:"version";s:7:"1.1.0.0";s:5:"alias";a:1:{s:18:"@dosamigos/gallery";s:77:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/2amigos/yii2-gallery-widget/src";}}s:31:"2amigos/yii2-file-upload-widget";a:3:{s:4:"name";s:31:"2amigos/yii2-file-upload-widget";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:21:"@dosamigos/fileupload";s:81:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/2amigos/yii2-file-upload-widget/src";}}s:25:"dmstr/yii2-adminlte-asset";a:3:{s:4:"name";s:25:"dmstr/yii2-adminlte-asset";s:7:"version";s:7:"2.5.0.0";s:5:"alias";a:1:{s:6:"@dmstr";s:71:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/dmstr/yii2-adminlte-asset";}}s:21:"yii2assets/yii2-pdfjs";a:3:{s:4:"name";s:21:"yii2assets/yii2-pdfjs";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:17:"@yii2assets/pdfjs";s:67:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/yii2assets/yii2-pdfjs";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:10:"@yii/debug";s:64:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/yiisoft/yii2-debug";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:8:"@yii/gii";s:62:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/yiisoft/yii2-gii";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:10:"@yii/faker";s:64:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/yiisoft/yii2-faker";}}s:23:"kartik-v/yii2-popover-x";a:3:{s:4:"name";s:23:"kartik-v/yii2-popover-x";s:7:"version";s:7:"1.3.4.0";s:5:"alias";a:1:{s:15:"@kartik/popover";s:69:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-popover-x";}}s:18:"kartik-v/yii2-grid";a:3:{s:4:"name";s:18:"kartik-v/yii2-grid";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/grid";s:64:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/kartik-v/yii2-grid";}}}}";s:7:"request";s:7928:"a:14:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:16:{s:12:"content-type";s:0:"";s:14:"content-length";s:1:"0";s:14:"x-original-url";s:40:"/danu/evadanu_2020_1/web/site/asignatura";s:14:"sec-fetch-dest";s:8:"document";s:14:"sec-fetch-user";s:2:"?1";s:14:"sec-fetch-mode";s:8:"navigate";s:14:"sec-fetch-site";s:11:"same-origin";s:25:"upgrade-insecure-requests";s:1:"1";s:10:"user-agent";s:115:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36";s:7:"referer";s:82:"https://apps.uleam.edu.ec/danu/evadanu_2020_1/web/site/ver-encuesta?pid=21&aid=241";s:4:"host";s:17:"apps.uleam.edu.ec";s:6:"cookie";s:243:"_ga=GA1.3.1386217806.1605746595; PHPSESSID=7mq5s5qqrupodgvie76h50vs05; _csrf=ba53e62e042d87245107e51d998af843c60899ef06dce7106fc25b67b68076f3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22qquHdgfg4pkZv6KwKtKaIfVUEczlGvS-%22%3B%7D";s:15:"accept-language";s:23:"es-ES,es;q=0.9,en;q=0.8";s:15:"accept-encoding";s:17:"gzip, deflate, br";s:6:"accept";s:135:"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9";s:10:"connection";s:10:"keep-alive";}s:15:"responseHeaders";a:5:{s:12:"X-Powered-By";s:10:"PHP/7.1.19";s:7:"Expires";s:29:"Thu, 19 Nov 1981 08:52:00 GMT";s:13:"Cache-Control";s:35:"no-store, no-cache, must-revalidate";s:6:"Pragma";s:8:"no-cache";s:12:"Content-Type";s:24:"text/html; charset=UTF-8";}s:5:"route";s:15:"site/asignatura";s:6:"action";s:50:"app\controllers\SiteController::actionAsignatura()";s:12:"actionParams";a:0:{}s:11:"requestBody";a:0:{}s:6:"SERVER";a:100:{s:13:"_FCGI_X_PIPE_";s:53:"\\.\pipe\IISFCGI-336c4926-1907-4939-95d3-cf3ad9e09f20";s:21:"PHP_FCGI_MAX_REQUESTS";s:5:"10000";s:5:"PHPRC";s:25:"C:\Program Files\PHP\v7.1";s:36:"5C544161-3ACC-47D2-8B28-C9FB21FF7310";s:9:"{VNXB67jT";s:15:"ALLUSERSPROFILE";s:14:"C:\ProgramData";s:7:"APPDATA";s:56:"C:\Windows\system32\config\systemprofile\AppData\Roaming";s:15:"APP_POOL_CONFIG";s:61:"C:\inetpub\temp\apppools\DefaultAppPool\DefaultAppPool.config";s:11:"APP_POOL_ID";s:14:"DefaultAppPool";s:18:"CommonProgramFiles";s:29:"C:\Program Files\Common Files";s:23:"CommonProgramFiles(x86)";s:35:"C:\Program Files (x86)\Common Files";s:18:"CommonProgramW6432";s:29:"C:\Program Files\Common Files";s:12:"COMPUTERNAME";s:15:"SERVIDOR-APPDEI";s:7:"ComSpec";s:27:"C:\Windows\system32\cmd.exe";s:16:"FP_NO_HOST_CHECK";s:2:"NO";s:12:"LOCALAPPDATA";s:54:"C:\Windows\system32\config\systemprofile\AppData\Local";s:20:"NUMBER_OF_PROCESSORS";s:1:"8";s:2:"OS";s:10:"Windows_NT";s:4:"Path";s:586:"C:\Program Files\PHP\v7.3;C:\Windows\system32\inetsrv;C:\Program Files\PHP\v7.1;C:\Windows\system32\inetsrv;C:\Program Files (x86)\PHP\v5.6;C:\Program Files\PHP\v7.1;C:\Windows\system32\inetsrv;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\Instalador1\.dotnet\tools;C:\Program Files\Git\cmd;C:\Program Files\Microsoft\Web Platform Installer\;;";s:7:"PATHEXT";s:53:".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC";s:22:"PROCESSOR_ARCHITECTURE";s:5:"AMD64";s:20:"PROCESSOR_IDENTIFIER";s:50:"Intel64 Family 6 Model 63 Stepping 2, GenuineIntel";s:15:"PROCESSOR_LEVEL";s:1:"6";s:18:"PROCESSOR_REVISION";s:4:"3f02";s:11:"ProgramData";s:14:"C:\ProgramData";s:12:"ProgramFiles";s:16:"C:\Program Files";s:17:"ProgramFiles(x86)";s:22:"C:\Program Files (x86)";s:12:"ProgramW6432";s:16:"C:\Program Files";s:12:"PSModulePath";s:51:"C:\Windows\system32\WindowsPowerShell\v1.0\Modules\";s:6:"PUBLIC";s:15:"C:\Users\Public";s:11:"SystemDrive";s:2:"C:";s:10:"SystemRoot";s:10:"C:\Windows";s:4:"TEMP";s:15:"C:\Windows\TEMP";s:3:"TMP";s:15:"C:\Windows\TEMP";s:10:"USERDOMAIN";s:10:"SERVIDORES";s:8:"USERNAME";s:16:"SERVIDOR-APPDEI$";s:11:"USERPROFILE";s:40:"C:\Windows\system32\config\systemprofile";s:6:"windir";s:10:"C:\Windows";s:14:"ORIG_PATH_INFO";s:34:"/danu/evadanu_2020_1/web/index.php";s:3:"URL";s:34:"/danu/evadanu_2020_1/web/index.php";s:15:"SERVER_SOFTWARE";s:17:"Microsoft-IIS/8.5";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:18:"SERVER_PORT_SECURE";s:1:"1";s:11:"SERVER_PORT";s:3:"443";s:11:"SERVER_NAME";s:17:"apps.uleam.edu.ec";s:11:"SCRIPT_NAME";s:34:"/danu/evadanu_2020_1/web/index.php";s:15:"SCRIPT_FILENAME";s:52:"C:\inetpub\wwwroot\danu\evadanu_2020_1\web\index.php";s:11:"REQUEST_URI";s:40:"/danu/evadanu_2020_1/web/site/asignatura";s:14:"REQUEST_METHOD";s:3:"GET";s:11:"REMOTE_USER";s:0:"";s:11:"REMOTE_PORT";s:5:"11769";s:11:"REMOTE_HOST";s:14:"190.52.205.132";s:11:"REMOTE_ADDR";s:14:"190.52.205.132";s:12:"QUERY_STRING";s:0:"";s:15:"PATH_TRANSLATED";s:52:"C:\inetpub\wwwroot\danu\evadanu_2020_1\web\index.php";s:10:"LOGON_USER";s:0:"";s:10:"LOCAL_ADDR";s:13:"10.253.254.51";s:18:"INSTANCE_META_PATH";s:11:"/LM/W3SVC/1";s:13:"INSTANCE_NAME";s:16:"DEFAULT WEB SITE";s:11:"INSTANCE_ID";s:1:"1";s:20:"HTTPS_SERVER_SUBJECT";s:75:"C=EC, L=Manta, O=Universidad Laica Eloy Alfaro de Manabi, CN=*.uleam.edu.ec";s:19:"HTTPS_SERVER_ISSUER";s:140:"C=US, S=Arizona, L=Scottsdale, O="GoDaddy.com, Inc.", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2";s:19:"HTTPS_SECRETKEYSIZE";s:4:"2048";s:13:"HTTPS_KEYSIZE";s:3:"256";s:5:"HTTPS";s:2:"on";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:13:"DOCUMENT_ROOT";s:18:"C:\inetpub\wwwroot";s:12:"CONTENT_TYPE";s:0:"";s:14:"CONTENT_LENGTH";s:1:"0";s:12:"CERT_SUBJECT";s:0:"";s:17:"CERT_SERIALNUMBER";s:0:"";s:11:"CERT_ISSUER";s:0:"";s:10:"CERT_FLAGS";s:0:"";s:11:"CERT_COOKIE";s:0:"";s:9:"AUTH_USER";s:0:"";s:13:"AUTH_PASSWORD";s:0:"";s:9:"AUTH_TYPE";s:0:"";s:18:"APPL_PHYSICAL_PATH";s:39:"C:\inetpub\wwwroot\danu\evadanu_2020_1\";s:12:"APPL_MD_PATH";s:36:"/LM/W3SVC/1/ROOT/danu/evadanu_2020_1";s:20:"IIS_UrlRewriteModule";s:13:"7,1,1993,2351";s:13:"UNENCODED_URL";s:40:"/danu/evadanu_2020_1/web/site/asignatura";s:19:"IIS_WasUrlRewritten";s:1:"1";s:19:"HTTP_X_ORIGINAL_URL";s:40:"/danu/evadanu_2020_1/web/site/asignatura";s:19:"HTTP_SEC_FETCH_DEST";s:8:"document";s:19:"HTTP_SEC_FETCH_USER";s:2:"?1";s:19:"HTTP_SEC_FETCH_MODE";s:8:"navigate";s:19:"HTTP_SEC_FETCH_SITE";s:11:"same-origin";s:30:"HTTP_UPGRADE_INSECURE_REQUESTS";s:1:"1";s:15:"HTTP_USER_AGENT";s:115:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36";s:12:"HTTP_REFERER";s:82:"https://apps.uleam.edu.ec/danu/evadanu_2020_1/web/site/ver-encuesta?pid=21&aid=241";s:9:"HTTP_HOST";s:17:"apps.uleam.edu.ec";s:11:"HTTP_COOKIE";s:243:"_ga=GA1.3.1386217806.1605746595; PHPSESSID=7mq5s5qqrupodgvie76h50vs05; _csrf=ba53e62e042d87245107e51d998af843c60899ef06dce7106fc25b67b68076f3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22qquHdgfg4pkZv6KwKtKaIfVUEczlGvS-%22%3B%7D";s:20:"HTTP_ACCEPT_LANGUAGE";s:23:"es-ES,es;q=0.9,en;q=0.8";s:20:"HTTP_ACCEPT_ENCODING";s:17:"gzip, deflate, br";s:11:"HTTP_ACCEPT";s:135:"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9";s:19:"HTTP_CONTENT_LENGTH";s:1:"0";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:9:"FCGI_ROLE";s:9:"RESPONDER";s:8:"PHP_SELF";s:34:"/danu/evadanu_2020_1/web/index.php";s:18:"REQUEST_TIME_FLOAT";d:1607105719.371031;s:12:"REQUEST_TIME";i:1607105719;}s:3:"GET";a:0:{}s:4:"POST";a:0:{}s:6:"COOKIE";a:3:{s:3:"_ga";s:27:"GA1.3.1386217806.1605746595";s:9:"PHPSESSID";s:26:"7mq5s5qqrupodgvie76h50vs05";s:5:"_csrf";s:130:"ba53e62e042d87245107e51d998af843c60899ef06dce7106fc25b67b68076f3a:2:{i:0;s:5:"_csrf";i:1;s:32:"qquHdgfg4pkZv6KwKtKaIfVUEczlGvS-";}";}s:5:"FILES";a:0:{}s:7:"SESSION";a:2:{s:7:"__flash";a:0:{}s:5:"datos";a:2:{s:14:"identificacion";s:11:"e1351164452";s:8:"idAlumno";s:4:"3275";}}}";s:3:"log";s:14355:"a:1:{s:8:"messages";a:33:{i:0;a:6:{i:0;s:15:"Session started";i:1;i:4;i:2;s:21:"yii\web\Session::open";i:3;d:1607105719.390999;i:4;a:0:{}i:5;i:3242632;}i:1;a:6:{i:0;s:75:"Opening DB connection: sqlsrv:Server=10.253.254.52;Database=danu_eva_2020_1";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1607105719.402186;i:4;a:0:{}i:5;i:4962416;}i:4;a:6:{i:0;s:493:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'alumno' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.40233;i:4;a:0:{}i:5;i:4979592;}i:7;a:6:{i:0;s:769:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'alumno' AND [t1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.409812;i:4;a:0:{}i:5;i:4979584;}i:10;a:6:{i:0;s:648:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.alumno')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.413825;i:4;a:0:{}i:5;i:4999456;}i:13;a:6:{i:0;s:40:"SELECT * FROM [alumno] WHERE [id]='3275'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.417112;i:4;a:0:{}i:5;i:5265104;}i:16;a:6:{i:0;s:504:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'alumno_asignatura' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.418446;i:4;a:0:{}i:5;i:5313224;}i:19;a:6:{i:0;s:780:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'alumno_asignatura' AND [t1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.425262;i:4;a:0:{}i:5;i:5313776;}i:22;a:6:{i:0;s:659:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.alumno_asignatura')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.4274;i:4;a:0:{}i:5;i:5319024;}i:25;a:6:{i:0;s:65:"SELECT COUNT(*) FROM [alumno_asignatura] WHERE [alumno_id]='3275'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.43808;i:4;a:0:{}i:5;i:6723448;}i:28;a:6:{i:0;s:119:"SELECT * FROM [alumno_asignatura] WHERE [alumno_id]='3275' ORDER BY (SELECT NULL) OFFSET 0 ROWS FETCH NEXT 20 ROWS ONLY";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.453151;i:4;a:0:{}i:5;i:7673208;}i:31;a:6:{i:0;s:52:"SELECT * FROM [profesor_asignatura] WHERE [id]='241'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.45871;i:4;a:0:{}i:5;i:7702720;}i:34;a:6:{i:0;s:506:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'profesor_asignatura' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.459656;i:4;a:0:{}i:5;i:7712120;}i:37;a:6:{i:0;s:782:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'profesor_asignatura' AND [t1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.465083;i:4;a:0:{}i:5;i:7712048;}i:40;a:6:{i:0;s:661:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.profesor_asignatura')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.467385;i:4;a:0:{}i:5;i:7717264;}i:43;a:6:{i:0;s:43:"SELECT * FROM [asignatura] WHERE [id]='241'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.469141;i:4;a:0:{}i:5;i:7739328;}i:46;a:6:{i:0;s:497:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'asignatura' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.470083;i:4;a:0:{}i:5;i:7747360;}i:49;a:6:{i:0;s:773:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'asignatura' AND [t1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.475854;i:4;a:0:{}i:5;i:7747272;}i:52;a:6:{i:0;s:652:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.asignatura')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.477492;i:4;a:0:{}i:5;i:7751712;}i:55;a:6:{i:0;s:40:"SELECT * FROM [profesor] WHERE [id]='21'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.479055;i:4;a:0:{}i:5;i:7779216;}i:58;a:6:{i:0;s:495:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'profesor' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.479981;i:4;a:0:{}i:5;i:7788248;}i:61;a:6:{i:0;s:771:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'profesor' AND [t1].[table_schema] = 'dbo'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.486114;i:4;a:0:{}i:5;i:7788160;}i:64;a:6:{i:0;s:650:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.profesor')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.489552;i:4;a:0:{}i:5;i:7796464;}i:67;a:6:{i:0;s:52:"SELECT * FROM [profesor_asignatura] WHERE [id]='255'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.491121;i:4;a:0:{}i:5;i:7805992;}i:70;a:6:{i:0;s:43:"SELECT * FROM [asignatura] WHERE [id]='255'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.492058;i:4;a:0:{}i:5;i:7808824;}i:73;a:6:{i:0;s:40:"SELECT * FROM [profesor] WHERE [id]='12'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.493008;i:4;a:0:{}i:5;i:7811800;}i:76;a:6:{i:0;s:52:"SELECT * FROM [profesor_asignatura] WHERE [id]='248'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.494042;i:4;a:0:{}i:5;i:7815704;}i:79;a:6:{i:0;s:43:"SELECT * FROM [asignatura] WHERE [id]='248'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.49496;i:4;a:0:{}i:5;i:7818536;}i:82;a:6:{i:0;s:40:"SELECT * FROM [profesor] WHERE [id]='16'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.495911;i:4;a:0:{}i:5;i:7821488;}i:85;a:6:{i:0;s:103:"Access to debugger is denied due to IP address restriction. The requesting IP address is 190.52.205.132";i:1;i:2;i:2;s:29:"yii\debug\Module::checkAccess";i:3;d:1607105719.498243;i:4;a:0:{}i:5;i:7884360;}i:86;a:6:{i:0;s:20:"SELECT * FROM [menu]";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.505785;i:4;a:0:{}i:5;i:8313664;}i:89;a:6:{i:0;s:20:"SELECT * FROM [menu]";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.508444;i:4;a:0:{}i:5;i:8400984;}i:92;a:6:{i:0;s:103:"Access to debugger is denied due to IP address restriction. The requesting IP address is 190.52.205.132";i:1;i:2;i:2;s:29:"yii\debug\Module::checkAccess";i:3;d:1607105719.511371;i:4;a:0:{}i:5;i:8397816;}}}";s:9:"profiling";s:27654:"a:3:{s:6:"memory";i:8478008;s:4:"time";d:0.1371469497680664;s:8:"messages";a:60:{i:2;a:6:{i:0;s:75:"Opening DB connection: sqlsrv:Server=10.253.254.52;Database=danu_eva_2020_1";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1607105719.402189;i:4;a:0:{}i:5;i:4962792;}i:3;a:6:{i:0;s:75:"Opening DB connection: sqlsrv:Server=10.253.254.52;Database=danu_eva_2020_1";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1607105719.402315;i:4;a:0:{}i:5;i:4975120;}i:5;a:6:{i:0;s:493:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'alumno' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.402391;i:4;a:0:{}i:5;i:4982680;}i:6;a:6:{i:0;s:493:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'alumno' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.409418;i:4;a:0:{}i:5;i:4985112;}i:8;a:6:{i:0;s:769:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'alumno' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.409846;i:4;a:0:{}i:5;i:4982920;}i:9;a:6:{i:0;s:769:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'alumno' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.413284;i:4;a:0:{}i:5;i:4992392;}i:11;a:6:{i:0;s:648:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.alumno')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.41386;i:4;a:0:{}i:5;i:5003336;}i:12;a:6:{i:0;s:648:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.alumno')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.414992;i:4;a:0:{}i:5;i:5006096;}i:14;a:6:{i:0;s:40:"SELECT * FROM [alumno] WHERE [id]='3275'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.417142;i:4;a:0:{}i:5;i:5267544;}i:15;a:6:{i:0;s:40:"SELECT * FROM [alumno] WHERE [id]='3275'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.417747;i:4;a:0:{}i:5;i:5272864;}i:17;a:6:{i:0;s:504:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'alumno_asignatura' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.418484;i:4;a:0:{}i:5;i:5316872;}i:18;a:6:{i:0;s:504:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'alumno_asignatura' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.424897;i:4;a:0:{}i:5;i:5319312;}i:20;a:6:{i:0;s:780:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'alumno_asignatura' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.425295;i:4;a:0:{}i:5;i:5317112;}i:21;a:6:{i:0;s:780:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'alumno_asignatura' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.427025;i:4;a:0:{}i:5;i:5321856;}i:23;a:6:{i:0;s:659:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.alumno_asignatura')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.427433;i:4;a:0:{}i:5;i:5322912;}i:24;a:6:{i:0;s:659:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.alumno_asignatura')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.428478;i:4;a:0:{}i:5;i:5325680;}i:26;a:6:{i:0;s:65:"SELECT COUNT(*) FROM [alumno_asignatura] WHERE [alumno_id]='3275'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.438115;i:4;a:0:{}i:5;i:6725944;}i:27;a:6:{i:0;s:65:"SELECT COUNT(*) FROM [alumno_asignatura] WHERE [alumno_id]='3275'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.44308;i:4;a:0:{}i:5;i:6727480;}i:29;a:6:{i:0;s:119:"SELECT * FROM [alumno_asignatura] WHERE [alumno_id]='3275' ORDER BY (SELECT NULL) OFFSET 0 ROWS FETCH NEXT 20 ROWS ONLY";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.453181;i:4;a:0:{}i:5;i:7675832;}i:30;a:6:{i:0;s:119:"SELECT * FROM [alumno_asignatura] WHERE [alumno_id]='3275' ORDER BY (SELECT NULL) OFFSET 0 ROWS FETCH NEXT 20 ROWS ONLY";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.457978;i:4;a:0:{}i:5;i:7679744;}i:32;a:6:{i:0;s:52:"SELECT * FROM [profesor_asignatura] WHERE [id]='241'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.458739;i:4;a:0:{}i:5;i:7705192;}i:33;a:6:{i:0;s:52:"SELECT * FROM [profesor_asignatura] WHERE [id]='241'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.459295;i:4;a:0:{}i:5;i:7709176;}i:35;a:6:{i:0;s:506:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'profesor_asignatura' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.45969;i:4;a:0:{}i:5;i:7715128;}i:36;a:6:{i:0;s:506:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'profesor_asignatura' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.464758;i:4;a:0:{}i:5;i:7717568;}i:38;a:6:{i:0;s:782:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'profesor_asignatura' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.465135;i:4;a:0:{}i:5;i:7715384;}i:39;a:6:{i:0;s:782:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'profesor_asignatura' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.467019;i:4;a:0:{}i:5;i:7720112;}i:41;a:6:{i:0;s:661:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.profesor_asignatura')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.467419;i:4;a:0:{}i:5;i:7721152;}i:42;a:6:{i:0;s:661:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.profesor_asignatura')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.468591;i:4;a:0:{}i:5;i:7724480;}i:44;a:6:{i:0;s:43:"SELECT * FROM [asignatura] WHERE [id]='241'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.46917;i:4;a:0:{}i:5;i:7741792;}i:45;a:6:{i:0;s:43:"SELECT * FROM [asignatura] WHERE [id]='241'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.469701;i:4;a:0:{}i:5;i:7744144;}i:47;a:6:{i:0;s:497:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'asignatura' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.470117;i:4;a:0:{}i:5;i:7750368;}i:48;a:6:{i:0;s:497:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'asignatura' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.475504;i:4;a:0:{}i:5;i:7752800;}i:50;a:6:{i:0;s:773:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'asignatura' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.475886;i:4;a:0:{}i:5;i:7750608;}i:51;a:6:{i:0;s:773:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'asignatura' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.477135;i:4;a:0:{}i:5;i:7754312;}i:53;a:6:{i:0;s:652:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.asignatura')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.477525;i:4;a:0:{}i:5;i:7755592;}i:54;a:6:{i:0;s:652:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.asignatura')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.478346;i:4;a:0:{}i:5;i:7756864;}i:56;a:6:{i:0;s:40:"SELECT * FROM [profesor] WHERE [id]='21'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.479084;i:4;a:0:{}i:5;i:7781680;}i:57;a:6:{i:0;s:40:"SELECT * FROM [profesor] WHERE [id]='21'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.47963;i:4;a:0:{}i:5;i:7786816;}i:59;a:6:{i:0;s:495:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'profesor' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.480014;i:4;a:0:{}i:5;i:7791256;}i:60;a:6:{i:0;s:495:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'profesor' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.485772;i:4;a:0:{}i:5;i:7793688;}i:62;a:6:{i:0;s:771:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'profesor' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.486146;i:4;a:0:{}i:5;i:7791496;}i:63;a:6:{i:0;s:771:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'profesor' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.489154;i:4;a:0:{}i:5;i:7800144;}i:65;a:6:{i:0;s:650:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.profesor')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.489586;i:4;a:0:{}i:5;i:7805976;}i:66;a:6:{i:0;s:650:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.profesor')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.490611;i:4;a:0:{}i:5;i:7808744;}i:68;a:6:{i:0;s:52:"SELECT * FROM [profesor_asignatura] WHERE [id]='255'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.491148;i:4;a:0:{}i:5;i:7808464;}i:69;a:6:{i:0;s:52:"SELECT * FROM [profesor_asignatura] WHERE [id]='255'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.491663;i:4;a:0:{}i:5;i:7811168;}i:71;a:6:{i:0;s:43:"SELECT * FROM [asignatura] WHERE [id]='255'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.492084;i:4;a:0:{}i:5;i:7811288;}i:72;a:6:{i:0;s:43:"SELECT * FROM [asignatura] WHERE [id]='255'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.49259;i:4;a:0:{}i:5;i:7813680;}i:74;a:6:{i:0;s:40:"SELECT * FROM [profesor] WHERE [id]='12'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.493034;i:4;a:0:{}i:5;i:7814264;}i:75;a:6:{i:0;s:40:"SELECT * FROM [profesor] WHERE [id]='12'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.493549;i:4;a:0:{}i:5;i:7819400;}i:77;a:6:{i:0;s:52:"SELECT * FROM [profesor_asignatura] WHERE [id]='248'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.49407;i:4;a:0:{}i:5;i:7818176;}i:78;a:6:{i:0;s:52:"SELECT * FROM [profesor_asignatura] WHERE [id]='248'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.494572;i:4;a:0:{}i:5;i:7820880;}i:80;a:6:{i:0;s:43:"SELECT * FROM [asignatura] WHERE [id]='248'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.494986;i:4;a:0:{}i:5;i:7821000;}i:81;a:6:{i:0;s:43:"SELECT * FROM [asignatura] WHERE [id]='248'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.495501;i:4;a:0:{}i:5;i:7823376;}i:83;a:6:{i:0;s:40:"SELECT * FROM [profesor] WHERE [id]='16'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.495937;i:4;a:0:{}i:5;i:7823952;}i:84;a:6:{i:0;s:40:"SELECT * FROM [profesor] WHERE [id]='16'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.496437;i:4;a:0:{}i:5;i:7829088;}i:87;a:6:{i:0;s:20:"SELECT * FROM [menu]";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.505812;i:4;a:0:{}i:5;i:8315280;}i:88;a:6:{i:0;s:20:"SELECT * FROM [menu]";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.506461;i:4;a:0:{}i:5;i:8320176;}i:90;a:6:{i:0;s:20:"SELECT * FROM [menu]";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.508471;i:4;a:0:{}i:5;i:8402600;}i:91;a:6:{i:0;s:20:"SELECT * FROM [menu]";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.508906;i:4;a:0:{}i:5;i:8407496;}}}";s:2:"db";s:27221:"a:1:{s:8:"messages";a:58:{i:5;a:6:{i:0;s:493:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'alumno' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.402391;i:4;a:0:{}i:5;i:4982680;}i:6;a:6:{i:0;s:493:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'alumno' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.409418;i:4;a:0:{}i:5;i:4985112;}i:8;a:6:{i:0;s:769:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'alumno' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.409846;i:4;a:0:{}i:5;i:4982920;}i:9;a:6:{i:0;s:769:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'alumno' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.413284;i:4;a:0:{}i:5;i:4992392;}i:11;a:6:{i:0;s:648:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.alumno')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.41386;i:4;a:0:{}i:5;i:5003336;}i:12;a:6:{i:0;s:648:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.alumno')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.414992;i:4;a:0:{}i:5;i:5006096;}i:14;a:6:{i:0;s:40:"SELECT * FROM [alumno] WHERE [id]='3275'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.417142;i:4;a:0:{}i:5;i:5267544;}i:15;a:6:{i:0;s:40:"SELECT * FROM [alumno] WHERE [id]='3275'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.417747;i:4;a:0:{}i:5;i:5272864;}i:17;a:6:{i:0;s:504:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'alumno_asignatura' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.418484;i:4;a:0:{}i:5;i:5316872;}i:18;a:6:{i:0;s:504:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'alumno_asignatura' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.424897;i:4;a:0:{}i:5;i:5319312;}i:20;a:6:{i:0;s:780:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'alumno_asignatura' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.425295;i:4;a:0:{}i:5;i:5317112;}i:21;a:6:{i:0;s:780:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'alumno_asignatura' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.427025;i:4;a:0:{}i:5;i:5321856;}i:23;a:6:{i:0;s:659:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.alumno_asignatura')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.427433;i:4;a:0:{}i:5;i:5322912;}i:24;a:6:{i:0;s:659:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.alumno_asignatura')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.428478;i:4;a:0:{}i:5;i:5325680;}i:26;a:6:{i:0;s:65:"SELECT COUNT(*) FROM [alumno_asignatura] WHERE [alumno_id]='3275'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.438115;i:4;a:0:{}i:5;i:6725944;}i:27;a:6:{i:0;s:65:"SELECT COUNT(*) FROM [alumno_asignatura] WHERE [alumno_id]='3275'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.44308;i:4;a:0:{}i:5;i:6727480;}i:29;a:6:{i:0;s:119:"SELECT * FROM [alumno_asignatura] WHERE [alumno_id]='3275' ORDER BY (SELECT NULL) OFFSET 0 ROWS FETCH NEXT 20 ROWS ONLY";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.453181;i:4;a:0:{}i:5;i:7675832;}i:30;a:6:{i:0;s:119:"SELECT * FROM [alumno_asignatura] WHERE [alumno_id]='3275' ORDER BY (SELECT NULL) OFFSET 0 ROWS FETCH NEXT 20 ROWS ONLY";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.457978;i:4;a:0:{}i:5;i:7679744;}i:32;a:6:{i:0;s:52:"SELECT * FROM [profesor_asignatura] WHERE [id]='241'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.458739;i:4;a:0:{}i:5;i:7705192;}i:33;a:6:{i:0;s:52:"SELECT * FROM [profesor_asignatura] WHERE [id]='241'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.459295;i:4;a:0:{}i:5;i:7709176;}i:35;a:6:{i:0;s:506:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'profesor_asignatura' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.45969;i:4;a:0:{}i:5;i:7715128;}i:36;a:6:{i:0;s:506:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'profesor_asignatura' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.464758;i:4;a:0:{}i:5;i:7717568;}i:38;a:6:{i:0;s:782:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'profesor_asignatura' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.465135;i:4;a:0:{}i:5;i:7715384;}i:39;a:6:{i:0;s:782:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'profesor_asignatura' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.467019;i:4;a:0:{}i:5;i:7720112;}i:41;a:6:{i:0;s:661:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.profesor_asignatura')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.467419;i:4;a:0:{}i:5;i:7721152;}i:42;a:6:{i:0;s:661:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.profesor_asignatura')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.468591;i:4;a:0:{}i:5;i:7724480;}i:44;a:6:{i:0;s:43:"SELECT * FROM [asignatura] WHERE [id]='241'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.46917;i:4;a:0:{}i:5;i:7741792;}i:45;a:6:{i:0;s:43:"SELECT * FROM [asignatura] WHERE [id]='241'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.469701;i:4;a:0:{}i:5;i:7744144;}i:47;a:6:{i:0;s:497:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'asignatura' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.470117;i:4;a:0:{}i:5;i:7750368;}i:48;a:6:{i:0;s:497:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'asignatura' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.475504;i:4;a:0:{}i:5;i:7752800;}i:50;a:6:{i:0;s:773:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'asignatura' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.475886;i:4;a:0:{}i:5;i:7750608;}i:51;a:6:{i:0;s:773:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'asignatura' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.477135;i:4;a:0:{}i:5;i:7754312;}i:53;a:6:{i:0;s:652:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.asignatura')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.477525;i:4;a:0:{}i:5;i:7755592;}i:54;a:6:{i:0;s:652:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.asignatura')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.478346;i:4;a:0:{}i:5;i:7756864;}i:56;a:6:{i:0;s:40:"SELECT * FROM [profesor] WHERE [id]='21'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.479084;i:4;a:0:{}i:5;i:7781680;}i:57;a:6:{i:0;s:40:"SELECT * FROM [profesor] WHERE [id]='21'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.47963;i:4;a:0:{}i:5;i:7786816;}i:59;a:6:{i:0;s:495:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'profesor' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.480014;i:4;a:0:{}i:5;i:7791256;}i:60;a:6:{i:0;s:495:"SELECT
+    [kcu].[constraint_name] AS [index_name],
+    [kcu].[column_name] AS [field_name]
+FROM [INFORMATION_SCHEMA].[KEY_COLUMN_USAGE] AS [kcu]
+LEFT JOIN [INFORMATION_SCHEMA].[TABLE_CONSTRAINTS] AS [tc] ON
+    [kcu].[table_schema] = [tc].[table_schema] AND
+    [kcu].[table_name] = [tc].[table_name] AND
+    [kcu].[constraint_name] = [tc].[constraint_name]
+WHERE
+    [tc].[constraint_type] = 'PRIMARY KEY' AND
+    [kcu].[table_name] = 'profesor' AND
+    [kcu].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.485772;i:4;a:0:{}i:5;i:7793688;}i:62;a:6:{i:0;s:771:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'profesor' AND [t1].[table_schema] = 'dbo'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.486146;i:4;a:0:{}i:5;i:7791496;}i:63;a:6:{i:0;s:771:"SELECT
+ [t1].[column_name],
+ [t1].[is_nullable],
+ [t1].[data_type],
+ [t1].[column_default],
+ COLUMNPROPERTY(OBJECT_ID([t1].[table_schema] + '.' + [t1].[table_name]), [t1].[column_name], 'IsIdentity') AS is_identity,
+ (
+    SELECT CONVERT(VARCHAR, [t2].[value])
+		FROM [sys].[extended_properties] AS [t2]
+		WHERE
+			[t2].[class] = 1 AND
+			[t2].[class_desc] = 'OBJECT_OR_COLUMN' AND
+			[t2].[name] = 'MS_Description' AND
+			[t2].[major_id] = OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[table_name]) AND
+			[t2].[minor_id] = COLUMNPROPERTY(OBJECT_ID([t1].[TABLE_SCHEMA] + '.' + [t1].[TABLE_NAME]), [t1].[COLUMN_NAME], 'ColumnID')
+ ) as comment
+FROM [INFORMATION_SCHEMA].[COLUMNS] AS [t1]
+WHERE [t1].[table_name] = 'profesor' AND [t1].[table_schema] = 'dbo'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.489154;i:4;a:0:{}i:5;i:7800144;}i:65;a:6:{i:0;s:650:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.profesor')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.489586;i:4;a:0:{}i:5;i:7805976;}i:66;a:6:{i:0;s:650:"SELECT
+	[fk].[name] AS [fk_name],
+	[cp].[name] AS [fk_column_name],
+	OBJECT_NAME([fk].[referenced_object_id]) AS [uq_table_name],
+	[cr].[name] AS [uq_column_name]
+FROM
+	[sys].[foreign_keys] AS [fk]
+	INNER JOIN [sys].[foreign_key_columns] AS [fkc] ON
+		[fk].[object_id] = [fkc].[constraint_object_id]
+	INNER JOIN [sys].[columns] AS [cp] ON
+		[fk].[parent_object_id] = [cp].[object_id] AND
+		[fkc].[parent_column_id] = [cp].[column_id]
+	INNER JOIN [sys].[columns] AS [cr] ON
+		[fk].[referenced_object_id] = [cr].[object_id] AND
+		[fkc].[referenced_column_id] = [cr].[column_id]
+WHERE
+	[fk].[parent_object_id] = OBJECT_ID('dbo.profesor')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.490611;i:4;a:0:{}i:5;i:7808744;}i:68;a:6:{i:0;s:52:"SELECT * FROM [profesor_asignatura] WHERE [id]='255'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.491148;i:4;a:0:{}i:5;i:7808464;}i:69;a:6:{i:0;s:52:"SELECT * FROM [profesor_asignatura] WHERE [id]='255'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.491663;i:4;a:0:{}i:5;i:7811168;}i:71;a:6:{i:0;s:43:"SELECT * FROM [asignatura] WHERE [id]='255'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.492084;i:4;a:0:{}i:5;i:7811288;}i:72;a:6:{i:0;s:43:"SELECT * FROM [asignatura] WHERE [id]='255'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.49259;i:4;a:0:{}i:5;i:7813680;}i:74;a:6:{i:0;s:40:"SELECT * FROM [profesor] WHERE [id]='12'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.493034;i:4;a:0:{}i:5;i:7814264;}i:75;a:6:{i:0;s:40:"SELECT * FROM [profesor] WHERE [id]='12'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.493549;i:4;a:0:{}i:5;i:7819400;}i:77;a:6:{i:0;s:52:"SELECT * FROM [profesor_asignatura] WHERE [id]='248'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.49407;i:4;a:0:{}i:5;i:7818176;}i:78;a:6:{i:0;s:52:"SELECT * FROM [profesor_asignatura] WHERE [id]='248'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.494572;i:4;a:0:{}i:5;i:7820880;}i:80;a:6:{i:0;s:43:"SELECT * FROM [asignatura] WHERE [id]='248'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.494986;i:4;a:0:{}i:5;i:7821000;}i:81;a:6:{i:0;s:43:"SELECT * FROM [asignatura] WHERE [id]='248'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.495501;i:4;a:0:{}i:5;i:7823376;}i:83;a:6:{i:0;s:40:"SELECT * FROM [profesor] WHERE [id]='16'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.495937;i:4;a:0:{}i:5;i:7823952;}i:84;a:6:{i:0;s:40:"SELECT * FROM [profesor] WHERE [id]='16'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.496437;i:4;a:0:{}i:5;i:7829088;}i:87;a:6:{i:0;s:20:"SELECT * FROM [menu]";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.505812;i:4;a:0:{}i:5;i:8315280;}i:88;a:6:{i:0;s:20:"SELECT * FROM [menu]";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.506461;i:4;a:0:{}i:5;i:8320176;}i:90;a:6:{i:0;s:20:"SELECT * FROM [menu]";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.508471;i:4;a:0:{}i:5;i:8402600;}i:91;a:6:{i:0;s:20:"SELECT * FROM [menu]";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607105719.508906;i:4;a:0:{}i:5;i:8407496;}}}";s:6:"assets";s:6431:"a:13:{s:23:"dmstr\web\AdminLteAsset";a:10:{s:10:"sourcePath";s:73:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/almasaeed2010/adminlte/dist";s:3:"css";a:2:{i:0;s:20:"css/AdminLTE.min.css";i:1;s:27:"css/skins/skin-blue.min.css";}s:2:"js";a:1:{i:0;s:18:"js/adminlte.min.js";}s:7:"depends";a:4:{i:0;s:35:"rmrevin\yii\fontawesome\AssetBundle";i:1;s:16:"yii\web\YiiAsset";i:2;s:28:"yii\bootstrap\BootstrapAsset";i:3;s:34:"yii\bootstrap\BootstrapPluginAsset";}s:4:"skin";s:9:"skin-blue";s:8:"basePath";s:58:"C:\inetpub\wwwroot\danu\evadanu_2020_1\web\assets\7f443c3a";s:7:"baseUrl";s:40:"/danu/evadanu_2020_1/web/assets/7f443c3a";s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:25:"kartik\grid\GridViewAsset";a:9:{s:7:"depends";a:2:{i:0;s:19:"yii\web\JqueryAsset";i:1;s:28:"yii\bootstrap\BootstrapAsset";}s:2:"js";a:0:{}s:3:"css";a:1:{i:0;s:19:"css/kv-grid.min.css";}s:10:"sourcePath";s:71:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor\kartik-v\yii2-grid/assets";s:8:"basePath";s:58:"C:\inetpub\wwwroot\danu\evadanu_2020_1\web\assets\78bf6036";s:7:"baseUrl";s:40:"/danu/evadanu_2020_1/web/assets/78bf6036";s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:19:"yii\web\JqueryAsset";a:9:{s:10:"sourcePath";s:63:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor\bower/jquery/dist";s:2:"js";a:1:{i:0;s:9:"jquery.js";}s:8:"basePath";s:58:"C:\inetpub\wwwroot\danu\evadanu_2020_1\web\assets\9ae92ec1";s:7:"baseUrl";s:40:"/danu/evadanu_2020_1/web/assets/9ae92ec1";s:7:"depends";a:0:{}s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:28:"yii\bootstrap\BootstrapAsset";a:9:{s:10:"sourcePath";s:66:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor\bower/bootstrap/dist";s:3:"css";a:1:{i:0;s:17:"css/bootstrap.css";}s:8:"basePath";s:58:"C:\inetpub\wwwroot\danu\evadanu_2020_1\web\assets\8e74670c";s:7:"baseUrl";s:40:"/danu/evadanu_2020_1/web/assets/8e74670c";s:7:"depends";a:0:{}s:2:"js";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:34:"kartik\dialog\DialogBootstrapAsset";a:9:{s:7:"depends";a:3:{i:0;s:19:"yii\web\JqueryAsset";i:1;s:28:"yii\bootstrap\BootstrapAsset";i:2;s:34:"yii\bootstrap\BootstrapPluginAsset";}s:2:"js";a:1:{i:0;s:31:"dist/js/bootstrap-dialog.min.js";}s:3:"css";a:1:{i:0;s:33:"dist/css/bootstrap-dialog.min.css";}s:10:"sourcePath";s:69:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor\bower/bootstrap3-dialog";s:8:"basePath";s:58:"C:\inetpub\wwwroot\danu\evadanu_2020_1\web\assets\96e8cbda";s:7:"baseUrl";s:40:"/danu/evadanu_2020_1/web/assets/96e8cbda";s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:34:"yii\bootstrap\BootstrapPluginAsset";a:9:{s:10:"sourcePath";s:66:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor\bower/bootstrap/dist";s:2:"js";a:1:{i:0;s:15:"js/bootstrap.js";}s:7:"depends";a:2:{i:0;s:19:"yii\web\JqueryAsset";i:1;s:28:"yii\bootstrap\BootstrapAsset";}s:8:"basePath";s:58:"C:\inetpub\wwwroot\danu\evadanu_2020_1\web\assets\8e74670c";s:7:"baseUrl";s:40:"/danu/evadanu_2020_1/web/assets/8e74670c";s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:25:"kartik\dialog\DialogAsset";a:9:{s:9:"jsOptions";a:1:{s:8:"position";i:1;}s:7:"depends";a:0:{}s:2:"js";a:1:{i:0;s:16:"js/dialog.min.js";}s:3:"css";a:0:{}s:10:"sourcePath";s:73:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor\kartik-v\yii2-dialog/assets";s:8:"basePath";s:58:"C:\inetpub\wwwroot\danu\evadanu_2020_1\web\assets\a46594ee";s:7:"baseUrl";s:40:"/danu/evadanu_2020_1/web/assets/a46594ee";s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:27:"kartik\grid\GridExportAsset";a:9:{s:7:"depends";a:2:{i:0;s:19:"yii\web\JqueryAsset";i:1;s:28:"yii\bootstrap\BootstrapAsset";}s:2:"js";a:1:{i:0;s:24:"js/kv-grid-export.min.js";}s:3:"css";a:0:{}s:10:"sourcePath";s:71:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor\kartik-v\yii2-grid/assets";s:8:"basePath";s:58:"C:\inetpub\wwwroot\danu\evadanu_2020_1\web\assets\78bf6036";s:7:"baseUrl";s:40:"/danu/evadanu_2020_1/web/assets/78bf6036";s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:34:"kartik\grid\GridResizeColumnsAsset";a:9:{s:7:"depends";a:3:{i:0;s:19:"yii\web\JqueryAsset";i:1;s:28:"yii\bootstrap\BootstrapAsset";i:2;s:25:"kartik\grid\GridViewAsset";}s:2:"js";a:1:{i:0;s:33:"js/jquery.resizableColumns.min.js";}s:3:"css";a:1:{i:0;s:35:"css/jquery.resizableColumns.min.css";}s:10:"sourcePath";s:71:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor\kartik-v\yii2-grid/assets";s:8:"basePath";s:58:"C:\inetpub\wwwroot\danu\evadanu_2020_1\web\assets\78bf6036";s:7:"baseUrl";s:40:"/danu/evadanu_2020_1/web/assets/78bf6036";s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:22:"yii\grid\GridViewAsset";a:9:{s:10:"sourcePath";s:65:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor\yiisoft\yii2/assets";s:2:"js";a:1:{i:0;s:15:"yii.gridView.js";}s:7:"depends";a:1:{i:0;s:16:"yii\web\YiiAsset";}s:8:"basePath";s:58:"C:\inetpub\wwwroot\danu\evadanu_2020_1\web\assets\dc7402f5";s:7:"baseUrl";s:40:"/danu/evadanu_2020_1/web/assets/dc7402f5";s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:16:"yii\web\YiiAsset";a:9:{s:10:"sourcePath";s:65:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor\yiisoft\yii2/assets";s:2:"js";a:1:{i:0;s:6:"yii.js";}s:7:"depends";a:1:{i:0;s:19:"yii\web\JqueryAsset";}s:8:"basePath";s:58:"C:\inetpub\wwwroot\danu\evadanu_2020_1\web\assets\dc7402f5";s:7:"baseUrl";s:40:"/danu/evadanu_2020_1/web/assets/dc7402f5";s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:19:"app\assets\AppAsset";a:9:{s:8:"basePath";s:42:"C:\inetpub\wwwroot\danu\evadanu_2020_1\web";s:7:"baseUrl";s:24:"/danu/evadanu_2020_1/web";s:3:"css";a:0:{}s:2:"js";a:1:{i:0;s:14:"js/formulas.js";}s:7:"depends";a:0:{}s:10:"sourcePath";N;s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:35:"rmrevin\yii\fontawesome\AssetBundle";a:9:{s:10:"sourcePath";s:70:"C:\inetpub\wwwroot\danu\evadanu_2020_1\vendor/fortawesome/font-awesome";s:3:"css";a:1:{i:0;s:24:"css/font-awesome.min.css";}s:8:"basePath";s:57:"C:\inetpub\wwwroot\danu\evadanu_2020_1\web\assets\e8b1e06";s:7:"baseUrl";s:39:"/danu/evadanu_2020_1/web/assets/e8b1e06";s:7:"depends";a:0:{}s:2:"js";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:1:{s:10:"beforeCopy";s:8:"\Closure";}}}";s:4:"mail";s:6:"a:0:{}";s:8:"timeline";s:90:"a:3:{s:5:"start";d:1607105719.376519;s:3:"end";d:1607105719.51392;s:6:"memory";i:8478008;}";s:4:"user";s:2:"N;";s:6:"router";s:27:"a:1:{s:8:"messages";a:0:{}}";s:7:"summary";a:9:{s:3:"tag";s:13:"5fca7cb75f924";s:3:"url";s:65:"https://apps.uleam.edu.ec/danu/evadanu_2020_1/web/site/asignatura";s:4:"ajax";i:0;s:6:"method";s:3:"GET";s:2:"ip";s:14:"190.52.205.132";s:4:"time";d:1607105719.371031;s:10:"statusCode";i:200;s:8:"sqlCount";i:29;s:9:"mailCount";i:0;}s:10:"exceptions";a:0:{}}
