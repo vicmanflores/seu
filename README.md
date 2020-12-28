@@ -1,2 +1,2 @@
-# seu
+# SEU
 Sistema de Encuesta Universitario
