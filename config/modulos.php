@@ -4,15 +4,6 @@ return [
     'Administracion' => [
         'class' => 'app\modules\Administracion\Modulo',
     ],
-    'pdfjs' => [
-        //'class' => '\yii2assets\pdfjs\Module',
-        'class' => '\yii2assets\pdfjs\Module',
-    /*     'waterMark'=>[
-      'text'=>'DesignTechX S.A',
-      'color'=> 'blue',
-      'alpha'=>'0.3'
-      ] */
-    ],
     'datecontrol' => [
         'class' => 'kartik\datecontrol\Module',
         'autoWidget' => true,
@@ -38,9 +29,8 @@ return [
             'forceTranslation' => true
         ],
     ],
-    
-	//MODULO DE GESTION DE USUARIOS    
-	'admin' => [
+    //MODULO DE GESTION DE USUARIOS    
+    'admin' => [
         'class' => 'mdm\admin\Module',
         //  'layout' => 'left-menu', // it can be '@path/to/your/layout'.
         'layout' => 'top-menu', // it can be '@path/to/your/layout'.
@@ -67,7 +57,5 @@ return [
           'permission' => null,
           'route' => null, // disable menu route */
         ]
-		
-	
     ],
 ];

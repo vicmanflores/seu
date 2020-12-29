@@ -1,6 +1,6 @@
 {
   "name": "rmrevin/yii2-minify-view",
-  "description": "Yii2 View component with minification css & js",
+  "description": "Yii2 View component with auto minification css & js in runtime",
   "keywords": [
     "yii2",
     "minify",
@@ -32,16 +32,10 @@
       "rmrevin\\yii\\minify\\": ""
     }
   },
-  "config": {
-    "fxp-asset": {
-      "installer-paths": {
-        "npm-asset-library": "vendor/npm",
-        "bower-asset-library": "vendor/bower"
-      },
-      "vcs-driver-options": {
-        "github-no-api": true
-      },
-      "pattern-skip-version": "(-build|-patch)"
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
     }
-  }
+  ]
 }

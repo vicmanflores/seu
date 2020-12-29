@@ -82,13 +82,13 @@ class HelperPersonalizado {
     public static function RutaAbsoluta() {
         $host = $_SERVER['HTTP_HOST'];
 //$uri = rtrim(dirname($_SERVER['PHP_SELF']), '/\\');
-        return $base = "https://" . $host . '/danu/evadanu_2020_1/web/';
+        return $base = "https://" . $host . '/seu/web/';
     }
 
     public static function RutaRaiz() {
         $host = $_SERVER['HTTP_HOST'];
 //$uri = rtrim(dirname($_SERVER['PHP_SELF']), '/\\');
-        return $base = "https://" . $host . '/danu/evadanu_2020_1/web/';
+        return $base = "https://" . $host . '/seu/web/';
     }
 
     public static function RestarFecha($fecha, $dia) {
@@ -116,17 +116,16 @@ class HelperPersonalizado {
     }
 
     public static function GenerarToken($parametro) {
-        
+
         $generado = Yii::$app->security->generateRandomString();
         $token = Yii::$app->security->generatePasswordHash($parametro . '' . $generado);
         return $token;
     }
 
-    
     public static function GenerarClave($parametro) {
-        
+
         $clave = Yii::$app->security->generatePasswordHash($parametro);
         return $clave;
     }
-    
+
 }

@@ -11,6 +11,11 @@ $config = [
     'bootstrap' => ['log'],
     'modules' => require(__DIR__ . '/modulos.php'),
     'components' => require(__DIR__ . '/componentes.php'),
+    
+    'aliases' => [
+    '@bower' => '@vendor/bower-asset',
+    '@npm'   => '@vendor/npm-asset',
+],
     'as access' => [
         'class' => 'mdm\admin\components\AccessControl',
         'allowActions' => [

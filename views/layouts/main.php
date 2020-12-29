@@ -19,7 +19,7 @@ if (Yii::$app->controller->action->id === 'login') {
     if (class_exists('backend\assets\AppAsset')) {
         backend\assets\AppAsset::register($this);
     } else {
-        app\assets\AppAsset::register($this);
+       // app\assets\AppAsset::register($this);
     }
 
     dmstr\web\AdminLteAsset::register($this);
@@ -31,7 +31,7 @@ if (Yii::$app->controller->action->id === 'login') {
     <html lang="<?= Yii::$app->language ?>">
         <head>
             <link rel="shortcut icon" href="<?php echo Yii::$app->request->baseUrl; ?>/favicon.ico" type="image/x-icon" />
-            
+
             <meta charset="<?= Yii::$app->charset ?>"/>
             <meta name="viewport" content="width=device-width, initial-scale=1">
             <?= Html::csrfMetaTags() ?>
@@ -69,6 +69,6 @@ if (Yii::$app->controller->action->id === 'login') {
 <?php } ?>
 
 
-    
+
 
 </style>

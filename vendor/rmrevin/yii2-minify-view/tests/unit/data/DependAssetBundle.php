@@ -7,11 +7,14 @@
 
 namespace rmrevin\yii\minify\tests\unit\data;
 
+use yii\web\AssetBundle;
+use yii\web\View;
+
 /**
  * Class DependAssetBundle
  * @package rmrevin\yii\minify\tests\unit\data
  */
-class DependAssetBundle extends \yii\web\AssetBundle
+class DependAssetBundle extends AssetBundle
 {
 
     public $js = [
@@ -23,7 +26,7 @@ class DependAssetBundle extends \yii\web\AssetBundle
     ];
 
     public $jsOptions = [
-        'position' => \rmrevin\yii\minify\View::POS_HEAD,
+        'position' => View::POS_HEAD,
     ];
 
     public $depends = [
@@ -33,5 +36,7 @@ class DependAssetBundle extends \yii\web\AssetBundle
     public function init()
     {
         $this->sourcePath = __DIR__ . '/source';
+
+        parent::init();
     }
 }

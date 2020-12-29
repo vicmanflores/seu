@@ -13,31 +13,6 @@ use app\helpers\HelperPersonalizado;
 
 class SiteController extends Controller {
 
-    /**
-     * @inheritdoc
-     */
-/*    public function behaviors() {
-        return [
-            'access' => [
-                'class' => AccessControl::className(),
-                'only' => ['logout'],
-                'rules' => [
-                    [
-                        'actions' => ['logout', 'correo'],
-                        'allow' => true,
-                        'roles' => ['@'],
-                    ],
-                ],
-            ],
-            'verbs' => [
-                'class' => VerbFilter::className(),
-                'actions' => [
-                    'logout' => ['post'],
-                ],
-            ],
-        ];
-    }
-*/
     public function actionCorreo() {
 
         try {
@@ -54,30 +29,23 @@ class SiteController extends Controller {
         }
     }
 
-	
-	 public function actionIge($token) {
-		
-		print_r($token);
-		die();
-		
-	 }
     public function actionSalir() {
         $variableSessionAlumno = Yii::$app->session;
         $variableSessionAlumno['datos'] = [
             'identificacion' => "",
             'idAlumno' => ""
         ];
-        
+
         Yii::$app->user->logout();
 
         return $this->redirect(['index']);
     }
 
     public function actionOauth2($token) {
-		/*
-		print_r($token);
-		die();*/
-		
+        /*
+          print_r($token);
+          die(); */
+
         $variableSessionAlumno = Yii::$app->session;
         $variableSessionAlumno['datos'] = [
             'identificacion' => "",
@@ -99,27 +67,27 @@ class SiteController extends Controller {
     }
 
     public function actionIndex() {
-        
-     //print_r(HelperPersonalizado::GenerarClave("salsatomate2020"));    
-        
-/*
-        if (!empty(HelperPersonalizado::CedulaAlumno()) && HelperPersonalizado::IdAlumno() > 0) {
-            return $this->redirect(['asignatura']);
-        }*/
+
+        //print_r(HelperPersonalizado::GenerarClave("salsatomate2020"));    
+
+        /*
+          if (!empty(HelperPersonalizado::CedulaAlumno()) && HelperPersonalizado::IdAlumno() > 0) {
+          return $this->redirect(['asignatura']);
+          } */
 
 
 
-   $variableSessionAlumno = Yii::$app->session;
+        $variableSessionAlumno = Yii::$app->session;
         $variableSessionAlumno['datos'] = [
             'identificacion' => "",
             'idAlumno' => ""
         ];
-        
+
 
         $this->layout = 'main-login';
         $model = new \app\models\FrmIngresarCedula();
         if ($model->load(Yii::$app->request->post())) {
-            if (($alumno = \app\models\Alumno::find()->where(['identificacion' => $model->cedula,'estado' =>1 ])->one()) !== null) {
+            if (($alumno = \app\models\Alumno::find()->where(['identificacion' => $model->cedula, 'estado' => 1])->one()) !== null) {
 
                 $variableSessionAlumno = Yii::$app->session;
                 $variableSessionAlumno['datos'] = [
@@ -158,10 +126,10 @@ class SiteController extends Controller {
                 ->setSubject('Acceder a EvaDANU 2020-1')
                 ->send();
         //Yii::$app->session->setFlash("info", "Se ha enviado un enlace de acceso a su correo");
-		Yii::$app->session->setFlash("info", "Se ha enviado un enlace de acceso a su correo institucional <a  href='https://portal.office.com'> Abrir Correo <i class='icon fa fa-external-link'></i></a>");
+        Yii::$app->session->setFlash("info", "Se ha enviado un enlace de acceso a su correo institucional <a  href='https://portal.office.com'> Abrir Correo <i class='icon fa fa-external-link'></i></a>");
 
-      
-        
+
+
         return $this->redirect(['site/index']);
     }
 
@@ -176,7 +144,7 @@ class SiteController extends Controller {
     }
 
     public function actionAsignatura() {
-  
+
         if (empty(HelperPersonalizado::CedulaAlumno()) && HelperPersonalizado::IdAlumno() == 0) {
             return $this->redirect(['index']);
         }
@@ -194,16 +162,16 @@ class SiteController extends Controller {
 
     public function actionEncuesta($id) {
 
-      
-        
-  if (empty(HelperPersonalizado::CedulaAlumno()) && HelperPersonalizado::IdAlumno() == 0) {
+
+
+        if (empty(HelperPersonalizado::CedulaAlumno()) && HelperPersonalizado::IdAlumno() == 0) {
             return $this->redirect(['index']);
         }
 
-        $preguntas = \app\models\Pregunta::find()->where(['estado'=>1])->all();
-        
+        $preguntas = \app\models\Pregunta::find()->where(['estado' => 1])->all();
+
         $modelRespuesta = new \app\models\ModeloRespuesta();
-       // $modelRespuesta->ListaPregunta(100);
+        // $modelRespuesta->ListaPregunta(100);
 
         if ($modelRespuesta->load(Yii::$app->request->post())) {
 
@@ -223,9 +191,9 @@ class SiteController extends Controller {
                 $encuesta->alumno_id = HelperPersonalizado::IdAlumno();
                 $encuesta->profesor_id = $alumnoAsignatura->profesorAsignatura->profesor_id;
                 $encuesta->asignatura_id = $alumnoAsignatura->profesorAsignatura->asignatura_id;
-                
+
                 $encuesta->periodo_id = $pregunta->periodo->id;
-                
+
                 $encuesta->carrera_id = $alumnoAsignatura->alumno->carrera_id;
 
                 $encuesta->save();
@@ -265,15 +233,14 @@ class SiteController extends Controller {
         if (empty(HelperPersonalizado::CedulaAlumno()) && HelperPersonalizado::IdAlumno() == 0) {
             return $this->redirect(['index']);
         }
-		
-		
+
+
         if (($encuestaLlena = \app\models\Encuesta::find()
                         ->where([
-					'profesor_id' => $pid,
-					'asignatura_id' => $aid,
-					'alumno_id'=> HelperPersonalizado::IdAlumno(),
-					
-					])->all()) !== null) {
+                            'profesor_id' => $pid,
+                            'asignatura_id' => $aid,
+                            'alumno_id' => HelperPersonalizado::IdAlumno(),
+                        ])->all()) !== null) {
 
             return $this->render('frmEncuestaLlena', [
                         'encuestaLlena' => $encuestaLlena,
